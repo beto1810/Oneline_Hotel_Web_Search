@@ -1,10 +1,9 @@
-# 🏨 Online Hotel Web Search
+# 🏨 Online Hotel Web Search 
+## Final Test Exam of "BI Course"  of MINDX TECHNOLOGY SCHOOL.
 
+![image](https://user-images.githubusercontent.com/101379141/201806216-c1121751-d0b9-4c77-be8d-f6d8568d7d7a.png)
 
-  <img src="https://user-images.githubusercontent.com/101379141/201035143-6f1af4fe-4169-4074-8287-6790d88803db.png" alt="Image" width="350" height="160">
-
-## Final Test Exam of 'BI Course'  of MINDX TECHNOLOGY SCHOOL.
-
+ <img src="https://user-images.githubusercontent.com/101379141/201035143-6f1af4fe-4169-4074-8287-6790d88803db.png" alt="Image" width="350" height="160">
 
 
 # :books: Table of Contents <!-- omit in toc -->
