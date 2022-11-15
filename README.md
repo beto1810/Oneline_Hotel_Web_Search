@@ -1,5 +1,5 @@
 # 🏨 Online Hotel Web Search 
-## Final Test Exam of "BI Course"  of MINDX TECHNOLOGY SCHOOL.
+## Final Test of "BI Course" of MINDX TECHNOLOGY SCHOOL.
 
 ![image](https://user-images.githubusercontent.com/101379141/201806216-c1121751-d0b9-4c77-be8d-f6d8568d7d7a.png)
 
@@ -94,11 +94,10 @@ One of the indicators that the Marketplace team cares about is the conversion ra
 
 # What can you practice with this case study?
 - Python
-  - Filter
-  - JOINS
-  - CTE's
-  - Window Function
-  - Import CSV File
+  - pandas, numpy
+  - cleaning, transforming.
+  - unpivot, wide_to_long
+  - import, save csv file. 
 - POWER BI
   - Visualize
   - Analyze
