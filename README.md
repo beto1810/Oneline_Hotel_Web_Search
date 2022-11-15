@@ -86,10 +86,10 @@ One of the indicators that the Marketplace team cares about is the conversion ra
   - Based on the trends you've discovered, what recommendations do you have for each advertiser to improve their advertising campaigns in 202
 
 
-# A. [Data Exploration and Cleansing]()
+# A. [Data Exploration and Cleansing](https://github.com/beto1810/Online_Hotel_Web_Search/blob/main/A.%20Data%20Exploration%20and%20Cleansing.md)
 
 
-# B. [Analysis]()
+# B. [Analysis](https://github.com/beto1810/Online_Hotel_Web_Search/blob/main/B.Analysis.md)
 
 
 # What can you practice with this case study?
