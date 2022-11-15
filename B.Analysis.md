@@ -7,10 +7,10 @@
 
 # :books: Table of Contents <!-- omit in toc -->
 
-- [1. Overall vs Market Trend](#1-overall)
-- [2. Advertiser Performance](#2-courses)
-- [3. Which Country](#3-paid-or-free)
-- [4. Final Comments](#5-final-comments)
+- [1. Overall vs Market Trend](#1-overall-vs-market-trend)
+- [2. Advertiser Performance](#2-advertiser-performance)
+- [3. Which Country](#3-which-country)
+- [4. Final Comments](#4-final-comments)
 
 ---
 
@@ -32,7 +32,7 @@
 
 # 2. Advertiser Performance
 
-![image](https://user-images.githubusercontent.com/101379141/201820798-8cc3cdac-3ab2-4d8a-bdfb-8357f3bc2be7.png)
+![image](https://user-images.githubusercontent.com/101379141/201839508-fbd518da-8faf-40f4-9bc9-eec040761bee.png)
 
 - Overall, Advertiser A had the best performance with the dominance in customer segment "Short" and "Medium". About 15 millions bookings was done through advertising of company A , and those bookings equals to more than 0.3 billion dollar profit for company A.
   - Company C had their own strategy when they focus on 'Long' Customer Segment and dominant with about 60 million dollar of this segment only which has the biggest profit in this segment comparing to others company A and B. It also balanced between different segments as "Short" and "Medium".
@@ -59,7 +59,7 @@
   - Excluding Tet Holiday and New Year Holiday (people refer comeback hometown instead of traveling), Other time of Vietnam's holiday is period of month (dataset) having high rate of conversion.
 
 ---
-# 4. Final Comments#
+# 4. Final Comments #
 
 - It can be seen that Website X had good cooperation with Advertiser A & C.
   - Understand the demanding of local market. 
