@@ -92,7 +92,7 @@ One of the indicators that the Marketplace team cares about is the conversion ra
 # B. [Analysis](https://github.com/beto1810/Online_Hotel_Web_Search/blob/main/B.Analysis.md)
 
 
-# What can you practice with this case study?
+# 🧾 What can you practice with this case study?
 - Python
   - pandas, numpy
   - cleaning, transforming.
