@@ -1,6 +1,6 @@
 # 📚 Case Study - Online Hotel Web Search: A. Data Exploration and Cleansing
 
-<p align="right"> Using Microsoft Python - Google Colab vs Power BI </p>
+<p align="right"> Using Python - Google Colab vs Power BI </p>
 
 #
 
