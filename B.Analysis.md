@@ -1,4 +1,4 @@
-# 📚 Case Study - Onlien Hotel Web Search: B.Analysis
+# 📚 Case Study - Online Hotel Web Search: B.Analysis
 
 ![image](https://user-images.githubusercontent.com/101379141/201806216-c1121751-d0b9-4c77-be8d-f6d8568d7d7a.png)
 
