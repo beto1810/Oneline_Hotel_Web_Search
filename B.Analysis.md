@@ -16,7 +16,7 @@
 
 # 1. Overall vs Market Trend
 
-![image](https://user-images.githubusercontent.com/101379141/201812601-251896de-7e7e-4d18-80d1-0e4d03013949.png)
+<img width="1237" alt="image" src="https://github.com/beto1810/Online_Hotel_Web_Search/assets/101379141/0689d4da-2d80-40c1-90b7-90ec879dbd16">
 
 - Overall:
   - There have been about 29 millions booking times received on website X
